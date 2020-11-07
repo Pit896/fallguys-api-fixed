@@ -161,7 +161,7 @@ All the nameplates of the season pass
 ## Examples
 
 ```js
-const fallguys = require("fallguys-api");
+const fallguys = require("fallguys-api-fixed");
 
 let achievements = await fallguys.getAchievements();
 achievements.getAchievement("ACH_FALL_THROTTLE");
