@@ -1,0 +1,26 @@
+{
+  "name": "fallguys-api",
+  "version": "1.1.0",
+  "description": "A node fall guys api",
+  "main": "lib/fallguys.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pit896/fallguys-api-fixed.git"
+  },
+  "keywords": [
+    "fall",
+    "fallguys",
+    "guys",
+    "api",
+    "esportinfo"
+  ],
+  "author": "Pit.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pit896/fallguys-api-fixed/issues"
+  },
+  "homepage": "https://github.com/Pit896/fallguys-api-fixed#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
