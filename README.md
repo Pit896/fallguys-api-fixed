@@ -5,11 +5,11 @@
 
 **install package**
 ```
-npm install fallguys-api
+npm install fallguys-api-fixed
 ```
 **require package in project**
 ```js
-const fallguys = require('fallguys-api');
+const fallguys = require('fallguys-api-fixed');
 ```
 
 ## FallGuys
